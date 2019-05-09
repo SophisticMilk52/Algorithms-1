@@ -1,2 +1,2 @@
 # APOI
-Este repositorio contiene el proyecto final de Algoritmos 1
+Este repositorio contiene trabajos de Algoritmos 1
